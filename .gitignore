@@ -8,3 +8,4 @@ Cargo.lock
 .DS_Store
 SDL2.dll
 SDL2.lib
+.cargo/
